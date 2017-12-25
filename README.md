@@ -1,6 +1,6 @@
-# angular2_crud_php_mysql_api
+# Crud_php_mysql_api
 
-## Import mydb.sql into your database
+## Import the file (.sql) into your database
 ## api includes the following files
 ## db.php
 ## select.php
